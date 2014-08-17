@@ -1,70 +1,50 @@
-! Xresource file
 
+! Xresource file
 URxvt*depth: 12
 URxvt*geometry: 80x20
 URxvt.borderColor: #739890
 URxvt.internalBorder: 4
-
 ! -- scrollbar
-
 URxvt.scrollstyle: plain
 URxvt.scrollBar: false
 URxvt.scrollTtyOutput: false
 URxvt.scrollWidthBuffer: true
 URxvt.scrollTtyKeypress: true
-
 ! -- login shell
-
 URxvt.loginShell: false
-
 ! -- font
-
-URxvt.font: xft:tewi:pixelsize=9
+URxvt.font: xft:uushi:pixelsize=9
 URxvt.boldFont:
-
 ! -- perl
-
 URxvt.perl-ext-command: default,clipboard,vtwheel
 URxvt.keysym.Mod4-v: perl:clipboard:paste
-
-
 ! -- colors
-
 URxvt.background: #424242
-URxvt.foreground: #9FBEC6
-
-URxvt.colorBD:    #CFCFCF
-URxvt.colorUL:    #A0A0A0
-URxvt.colorIT:    #686868
-
+URxvt.foreground: #739890
+URxvt.colorBD: #CFCFCF
+URxvt.colorUL: #A0A0A0
+URxvt.colorIT: #686868
 !BLK
-URxvt.color0:     #303030
-URxvt.color8:     #686868
-
+URxvt.color0: #303030
+URxvt.color8: #686868
 !RED
-URxvt.color9:     #cfcfcf
-URxvt.color1:     #cfcfcf
-
+URxvt.color9: #cfcfcf
+URxvt.color1: #cfcfcf
 !GRN
-URxvt.color10:    #A3D572
-URxvt.color2:     #6D9E3F
-
+URxvt.color10: #A3D572
+URxvt.color2: #6D9E3F
 !BLU
-URxvt.color12:    #98CBFE
-URxvt.color4:     #6095C5
-
+URxvt.color12: #98CBFE
+URxvt.color4: #6095C5
 !YEL
-URxvt.color11:    #EFBD8B
-URxvt.color3:     #B58858
-
+URxvt.color11: #EFBD8B
+URxvt.color3: #B58858
 !CYN
-URxvt.color14:    #75DAA9
-URxvt.color6:     #3BA275
-
+URxvt.color14: #75DAA9
+URxvt.color6: #3BA275
 !MAG
-URxvt.color13:    #E5B0FF
-URxvt.color5:     #AC7BDE
-
+URxvt.color13: #E5B0FF
+URxvt.color5: #AC7BDE
 !WHT
-URxvt.color7:     #CFCFCF
-URxvt.color15:    #FFFFFF
+URxvt.color7: #CFCFCF
+URxvt.color15: #FFFFFF
