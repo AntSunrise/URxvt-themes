@@ -1,0 +1,57 @@
+
+! Xresource file
+URxvt*depth: 12
+URxvt*geometry: 80x20
+URxvt.borderColor: #739890
+URxvt.internalBorder: 4
+! -- scrollbar
+URxvt.scrollstyle: plain
+URxvt.scrollBar: false
+URxvt.scrollTtyOutput: false
+URxvt.scrollWidthBuffer: true
+URxvt.scrollTtyKeypress: true
+! -- login shell
+URxvt.loginShell: false
+! -- font
+URxvt.font: xft:uushi:pixelsize=9
+URxvt.boldFont:
+! -- perl
+URxvt.perl-ext-command: default,clipboard,vtwheel
+URxvt.keysym.Mod4-v: perl:clipboard:paste
+!! terminal colors
+*background:        #191716
+*foreground:        #daba8b
+
+! TRIM YER BEARD colors
+
+!black
+*color0:    #0f0e0d
+*color8:    #383332
+
+!red
+*color1:    #845336
+*color9:    #8c4f4a
+
+!green
+*color2:    #57553c
+*color10:   #898471
+
+!yellow
+*color3:    #a17e3e
+*color11:   #c8b491
+
+!blue
+*color4:    #43454f
+*color12:   #65788f
+
+!magenta
+*color5:    #604848
+*color13:   #755e4a
+
+!cyan
+*color6:    #5c6652
+*color14:   #718062
+
+!white
+*color7:    #a18b62
+*color15:   #bc9d66
