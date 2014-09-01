@@ -1,0 +1,43 @@
+!--------------------xdefauls
+urxvt*font: xft:termsyn:size=8
+urxvt*termName: rxvt
+urxvt.foreground: 	#E8DFD6
+urxvt.background: 	!--------------------xdefauls
+urxvt*font: xft:termsyn:size=8
+urxvt*termName: rxvt
+urxvt.foreground: 	#363636
+urxvt.background: 	#E3DFCC
+urxvt.cursorColor:  #2E3340
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+URxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+URxvt*geometry: 85x20
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+urxvt.color0:       #AABDC2
+urxvt.color8:       #AABDC2
+urxvt.color1:       #B0AF8F
+urxvt.color9:       #949494
+urxvt.color2:       #B0AF8F
+urxvt.color10:      #efefef
+urxvt.color3:       #8A7A63
+urxvt.color11:      #BEB090
+urxvt.color4:       #516269
+urxvt.color12:      #ACB7C1
+urxvt.color5:       #C7C5B2
+urxvt.color13:      #B0AF8F
+urxvt.color6:       #44B5B1
+urxvt.color14:      #9ED9D8
+urxvt.color7:       #B4A9A1
+urxvt.color15:      #8F8E75
+
+!}}}
+
+
+
