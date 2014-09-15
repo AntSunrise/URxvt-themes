@@ -1,0 +1,48 @@
+!--------------------xdefauls
+urxvt*font: xft:monospace:size=8
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.urlLauncher: iceweasel
+urxvt.transparent: false
+urxvt*allow_bold: true
+URxvt.perl-lib:             /home/kupo/.urxvt/perl/
+URxvt.perl-ext:             clipboard
+URxvt.keysym.C-Insert:      perl:clipboard:copy
+URxvt.keysym.S-Insert:      perl:clipboard:paste
+URxvt.keysym.S-A-Insert:    perl:clipboard:paste_escaped
+URxvt.clipboard.autocopy:   true
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+URxvt*geometry: 85x20
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+!black
+URxvt.color0: #000000
+URxvt.color8: #2B2B2B
+!red
+URxvt.color1: #c67c78
+URxvt.color9: #c67c78
+!green
+URxvt.color2: #49B356
+URxvt.color10: #A0E2A8
+!yellow
+URxvt.color3: #E3C695
+URxvt.color11: #B38849
+!blue
+URxvt.color4: #889393
+URxvt.color12: #889393
+!magenta
+URxvt.color5: #8E4948
+URxvt.color13: #C67C78
+!cyan
+URxvt.color6: #6D5B42
+URxvt.color14: #A28D73
+!white
+URxvt.color7: #A0E2A8
+URxvt.color15: #efefef
+urxvt.background: #566060
+urxvt.foreground: #efefef
