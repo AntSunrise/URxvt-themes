@@ -1,0 +1,45 @@
+!! jellybeans colors
+! 8 8 8
+! *background: #080808
+! 128 128 128
+! *foreground: #808080
+! black
+! 26 26 26
+*color0:  #1a1a1a
+! 64 64 64
+*color8:  #404040
+! red
+! 215 95 95
+*color1:  #d75f5f
+! 234 132 132
+*color9:  #EA8484
+! green
+! 135 175 95
+*color2:  #87af5f
+! 199 240 159
+*color10: #C7F09F
+! yellow
+! 255 175 95
+*color3:  #ffaf5f
+! 255 204 154
+*color11: #FFCC9A
+! blue
+! 135 175 215
+*color4:  #87afd7
+! 165 202 239
+*color12: #a5caef
+! magenta
+! 135 135 175
+*color5:  #8787af
+! 166 166 222
+*color13: #A6A6DE
+! cyan
+! 95 135 135
+*color6:  #5f8787
+! 105 178 178
+*color14: #69b2b2
+! white
+! 128 128 128
+*color7:  #808080
+! 215 215 215
+*color15: #d7d7d7
