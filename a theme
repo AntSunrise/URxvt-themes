@@ -1,0 +1,49 @@
+URxvt.cursorColor: #c0b18b
+! black
+!URxvt.color0: #2f2f2f
+!URxvt.color8: #444444
+! red
+!URxvt.color1: #8800DD
+!URxvt.color9: #AA22FF
+! green
+!URxvt.color2: #9977DD
+!URxvt.color10: #BB99EE
+! yellow
+!URxvt.color3: #BB88EE
+!URxvt.color11: #DDAAEE
+! blue
+!URxvt.color4: #7755FF
+!URxvt.color12: #AA88FF
+! magenta
+!URxvt.color5: #6600DD
+!URxvt.color13: #9955FF
+! cyan
+!URxvt.color6: #9977AA
+!URxvt.color14: #BB99CC
+! white
+!URxvt.color7: #EEEEEE
+!URxvt.color15: #AAAAAA
+!black
+URxvt.color0:#4A3637
+URxvt.color8:#4A3637
+!red
+URxvt.color1:#d17b49
+URxvt.color9:#d17b49
+!green
+URxvt.color2:#7b8748
+URxvt.color10:#7b8748
+!yellow
+URxvt.color3:#af865a
+URxvt.color11:#af865a
+!blue
+URxvt.color4:#535C5C
+URxvt.color12:#535C5C
+!magenta
+URxvt.color5:#775759
+URxvt.color13:#775759
+!cyan
+URxvt.color6:#6d715e
+URxvt.color14:#6d715e
+!white
+URxvt.color7:#c0b18b
+URxvt.color15:#c0b18b
