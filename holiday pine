@@ -1,0 +1,50 @@
+!--------------------xdefauls
+URxvt.font: xft:Ubuntu Mono:bold:pixelsize=14
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+urxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+URxvt*geometry: 85x20
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+*background: #838B83
+*foreground: #d9e6f2
+! --- standard colors ---
+! black
+*color0: #50452e
+! bright_black
+*color8: #6a5f48
+! red
+*color1: #92754a
+! bright_red
+*color9: #b8a484
+! green
+*color2: #3D7221
+! bright_green
+*color10: #a6ad8d
+! yellow
+*color3: #E0EC8B
+! bright_yellow
+*color11: #afad84
+! blue
+*color4: #7f6270
+! bright_blue
+*color12: #af9c96
+! magenta
+*color5: #92625d
+! bright_magenta
+*color13: #b89c8d
+! cyan
+*color6: #6c7570
+! bright_cyan
+*color14: #a6a496
+! white
+*color7: #ada38b
+! bright_white
+*color15: #B0A07D
