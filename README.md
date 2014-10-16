@@ -18,3 +18,7 @@ mixa lot
 =============
 
 <a href="http://imgur.com/Sf0DCnT"><img src="http://i.imgur.com/Sf0DCnT.png" title="source: imgur.com" /></a>
+
+pretty
+=============
+<a href="http://imgur.com/hBDtz4K"><img src="http://i.imgur.com/hBDtz4K.png" title="source: imgur.com" /></a>
