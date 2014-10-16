@@ -5,4 +5,5 @@ light purplegreen
 
 dark violet
 ============
-<img src="http://i.imgur.com/syB9MpU.png" title="source: imgur.com" /></a>ng[/IMG]
+
+<a href="http://imgur.com/syB9MpU"><img src="http://i.imgur.com/syB9MpU.png" title="source: imgur.com" /></a>ng[/IMG]
