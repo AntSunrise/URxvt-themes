@@ -24,5 +24,5 @@ pretty
 <a href="http://imgur.com/hBDtz4K"><img src="http://i.imgur.com/hBDtz4K.png" title="source: imgur.com" /></a>
 
 blue space
-=============
+================
 [Imgur](http://i.imgur.com/gQquxno.png)
