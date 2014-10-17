@@ -34,7 +34,7 @@ deep sea
 =====================
 <a href="http://imgur.com/U5bxU64"><img src="http://i.imgur.com/U5bxU64.png" title="source: imgur.com" /></a>
 
-dat debian
+a theme
 =====================
 <a href="http://imgur.com/eM8YhzW"><img src="http://i.imgur.com/eM8YhzW.png" title="source: imgur.com" /></a>
 
@@ -42,6 +42,6 @@ fall
 =======================
 <a href="http://imgur.com/0ors61Y"><img src="http://i.imgur.com/0ors61Y.png" title="source: imgur.com" /></a>
 
-white bluesmooth
+Smooth white blue
 ======================
 <a href="http://imgur.com/9TjIBMI"><img src="http://i.imgur.com/9TjIBMI.png" title="source: imgur.com" /></a>
