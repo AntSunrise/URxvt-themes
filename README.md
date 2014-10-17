@@ -1,7 +1,7 @@
 light purplegreen
 ============
 
-<a href="http://imgur.com/LzlZStE"><img src="http://i.imgur.com/LzlZStE.png" title="source: imgur.com" /></a>
+<a href="http://imgur.com/r4qnd0P"><img src="http://i.imgur.com/r4qnd0P.png" title="source: imgur.com" /></a>>
 
 dark violet
 ============
