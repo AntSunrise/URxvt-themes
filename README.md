@@ -51,6 +51,6 @@ fall green ncmpcpp
 ==================
 <a href="http://imgur.com/gRcjR4G"><img src="http://i.imgur.com/gRcjR4G.png" title="source: imgur.com" /></a>
 
-somethin
+something
 =======================
 <a href="http://imgur.com/Kv9xN3Q"><img src="http://i.imgur.com/Kv9xN3Q.png" title="source: imgur.com" /></a>
