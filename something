@@ -1,0 +1,44 @@
+!--------------------xdefauls
+URxvt.font: xft:ubuntu mono:pixelsize=12
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+urxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+*internalBorder: 23
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+URxvt*background: #ACA7AF
+URxvt*foreground: #454545
+!black
+URxvt*color0: #101010
+URxvt*color8: #404040
+!red
+URxvt*color1: #953331
+URxvt*color9: #8D4A48
+!green
+URxvt*color2: #546A29
+URxvt*color10: #7E9960
+!yellow
+URxvt*color3: #E9E184
+URxvt*color11: #9CA554
+!blue
+URxvt*color4: #385E6B
+URxvt*color12: #5C737C
+!magenta
+URxvt*color5: #7F355E
+URxvt*color13: #95618B
+!cyan
+URxvt*color6: #34676F
+URxvt*color14: #5D858A
+!white
+URxvt*color7: #D8DBA2
+URxvt*color15: #D8DBA2
