@@ -58,3 +58,7 @@ something
 the arch dude
 =======================
 <a href="http://imgur.com/IOtOjeC"><img src="http://i.imgur.com/IOtOjeC.png" title="source: imgur.com" /></a>
+
+i'm not gentoo
+=========================
+<a href="http://imgur.com/2Mu9Q02"><img src="http://i.imgur.com/2Mu9Q02.png" title="source: imgur.com" /></a>
