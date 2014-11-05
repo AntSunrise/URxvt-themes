@@ -62,3 +62,7 @@ the arch dude
 i'm not gentoo
 =========================
 <a href="http://imgur.com/2Mu9Q02"><img src="http://i.imgur.com/2Mu9Q02.png" title="source: imgur.com" /></a>
+
+good rainbow
+=========================
+<a href="http://imgur.com/ds1Zzit"><img src="http://i.imgur.com/ds1Zzit.png" title="source: imgur.com" /></a>
