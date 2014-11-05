@@ -17,11 +17,10 @@ URxvt*fading: 0
 URxvt*tintColor: #ffffff
 URxvt*shading: 0
 URxvt*inheritPixmap: False
-
 URxvt.color0: #3B444F
 URxvt.color8: #4A585A
 URxvt.color1: #CD546C
-URxvt.color9: #EF545F
+URxvt.color9: #CD546C
 URxvt.color2: #A5AF86
 URxvt.color10: #BDC79E
 URxvt.color3: #CD7860
@@ -34,6 +33,5 @@ URxvt.color6: #767D75
 URxvt.color14: #9DA69E
 URxvt.color7: #C2C2A8
 URxvt.color15: #DBDAC1
-URxvt.background: #0e1116
+URxvt.background: #292929
 URxvt.foreground: #a3a6ab
-URxvt..colorUL: #95b9cc
