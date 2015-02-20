@@ -66,3 +66,9 @@ i'm not gentoo
 good rainbow
 =========================
 <a href="http://imgur.com/ds1Zzit"><img src="http://i.imgur.com/ds1Zzit.png" title="source: imgur.com" /></a>
+
+HomeMade Cotton Candy
+====================
+<a href="http://i.imgur.com/oGka08U.png">
+  <img src="http://imgur.com/oGka08Ul.png" />
+</a>
