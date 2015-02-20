@@ -1,0 +1,64 @@
+
+
+URxvt-themes/a new one
+AntSunrise AntSunrise 31 minutes ago
+Create a new one
+
+1 contributor
+41 lines (38 sloc) 0.762 kb
+!--------------------xdefauls
+URxvt.font: xft:monaco:pixelsize=13
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: false
+urxvt.boldFont:
+URxvt.letterSpace: -1
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+URxvt*cursorUnderline: true
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+*internalBorder: 26
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*inheritPixmap: False
+! special
+*.foreground:   #c5c8c6
+*.background:   #1f1f1f
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #a85377
+*.color9:       #a85377
+
+! green
+*.color2:       #746f81
+*.color10:      #746f81
+
+! yellow
+*.color3:       #545670
+*.color11:      #545670
+
+! blue
+*.color4:       #6a9bb9
+*.color12:      #6a9bb9
+
+! magenta
+*.color5:       #764970
+*.color13:      #764970
+
+! cyan
+*.color6:       #abb9ba
+*.color14:      #abb9ba
+
+! white
+*.color7:       #899298
+*.color15:      #899298
