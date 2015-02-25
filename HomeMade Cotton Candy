@@ -1,11 +1,3 @@
-
-
-URxvt-themes/a new one
-AntSunrise AntSunrise 31 minutes ago
-Create a new one
-
-1 contributor
-41 lines (38 sloc) 0.762 kb
 !--------------------xdefauls
 URxvt.font: xft:monaco:pixelsize=13
 urxvt*termName: rxvt
