@@ -78,3 +78,9 @@ tree bark
 <a href="http://i.imgur.com/sJd9l1B.png">
   <img src="http://imgur.com/sJd9l1Bl.png" />
 </a>
+
+All colorful and shit
+============================
+<a href="http://i.imgur.com/zkg0YI3.png">
+  <img src="http://imgur.com/zkg0YI3l.png" />
+</a>
