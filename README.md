@@ -90,3 +90,9 @@ ronery flower
 <a href="http://i.imgur.com/oFQXGei.png">
   <img src="http://imgur.com/oFQXGeil.png" />
 </a>
+
+rando macfag gay
+=============================
+<a href="http://i.imgur.com/cCWoNGE.png">
+  <img src="http://imgur.com/cCWoNGEl.png" />
+</a>
